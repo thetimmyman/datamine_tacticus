@@ -22,5 +22,9 @@
         "type": "git",
         "url": "git+https://github.com/unrstuart/datamine_tacticus.git"
     },
-    "license": "ISC"
+    "license": "ISC",
+    "allowScripts": {
+        "canvas@3.2.2": true,
+        "esbuild@0.25.9": true
+    }
 }
